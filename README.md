@@ -15,5 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📫 How to reach me: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bokki-ryu-018171179)
+### 🔭 I’m currently working on South Korea.
+
+### 🌱 I'm interested in the following areas:
+
+- Linux (including Debian, Linux kernel, and more)
+- Container Orchestration (particularly Kubernetes)
+- Infrastructure as Code (such as Ansible, Terraform, etc.)
+- MLOps (including pipelines, AutoML, and related technologies)
+
+### 📫 How to reach me: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bokki-ryu-018171179)
